@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @wowpowhub
-- 👀 I’m interested in php, laravel, vue, js, html, css, flutter, go, 3d graphics (3ds max, vray).
+- 🚀 Hi, I’m @wowpowhub
+- 👀 I’m interested in php, laravel, vue, js, html, css, flutter, go, 3d graphics (3ds max, vray), linux.
+- 👻 English at the level of reading and understanding technical documentation.
 - 📫 My email: wowpowhub@gmail.com
